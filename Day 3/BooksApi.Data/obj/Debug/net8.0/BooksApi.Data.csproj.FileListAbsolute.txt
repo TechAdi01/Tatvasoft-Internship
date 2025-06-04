@@ -1,0 +1,33 @@
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+D:\Summer Internship\Day 1\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\Dipesh  patel\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\Dipesh  patel\TatvaSoft\Day 3\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
